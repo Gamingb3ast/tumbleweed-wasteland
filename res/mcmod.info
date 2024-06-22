@@ -1,0 +1,11 @@
+[
+{
+  "modid": "tumbleweed",
+  "name": "Tumbleweed Wasteland",
+  "description": "Tumbleweeds spawn around dead bushes in deserts. They drop random goodies upon destroying. Slightly edited by GamingB3ast under LGPL version 3. All credits go to konwboy!",
+  "version": "${version}",
+  "authors": ["konwboy", "GamingB3ast"],
+  "authorList": ["konwboy"],
+  "logoFile": "logo.png"
+}
+]
